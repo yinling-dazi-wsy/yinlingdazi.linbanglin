@@ -1,0 +1,11 @@
+{
+    "mutual_fund": 500.0,
+    "total_commission": 1250.0,
+    "government_contracts": 3,
+    "vip_members": 45,
+    "orders_today": 0,
+    "revenue_today": 0.0,
+    "commission_today": 0.0,
+    "donation_today": 0.0,
+    "last_update": "2024-01-01"
+}

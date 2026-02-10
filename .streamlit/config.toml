@@ -1,7 +1,0 @@
-[server]
-port = 8501
-maxUploadSize = 10
-enableCORS = false
-
-[browser]
-serverAddress = "localhost"
